@@ -1,4 +1,4 @@
-# already moved to https://github.com/fengyqf/slowquerydaemon
+already moved to https://github.com/fengyqf/slowquerydaemon
 
 # slowquerykiller
 kill slow mysql query,filter by:
